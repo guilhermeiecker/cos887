@@ -1,15 +1,17 @@
-# COS887 - Tópicos Especiais em Otimização II
-# PESC/COPPE/UFRJ - 2017.2
-# Guilherme Iecker Ricardo
+COS887 - Otimização Combinatória Computacional
+===================
 
-Implementation problems for PESC/COPPE's COS887 course
+####PESC/COPPE/UFRJ - 2017.2
+####Guilherme Iecker Ricardo
 
-Homework 1: The Knapsack Problem
-	Problem 1: Fractional Knapsack - Greedy Approach
-	Problem 2: Fractional Knapsack - Linear Programming Approach
-	Problem 3: Binary Knapsack - Dynamic Programming Approach
-	Problem 4: Binary Knapsack - Linear Programming Approach
-	Problem 5: Binary Knapsack - Combinatorial Optimization Approach
+Homework
+-------------
 
-Homework 2: Max-Flow/Min-Cut Problem
-	T.B.A.
+ 1. The Knapsack Problem
+	 2. Fractional Knapsack - Greedy Approach
+	 3. Fractional Knapsack - Linear Programming Approach
+	 4. Binary Knapsack - Dynamic Programming Approach
+	 5. Binary Knapsack - Linear Programming Approach
+	 6. Binary Knapsack - Combinatorial Optimization Approach
+ 2. The Maximum Flow/Minimum Cut Problem
+	 3. T.B.A.
